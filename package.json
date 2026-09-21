@@ -1,0 +1,24 @@
+{
+  "name": "flores-amarillas-tres",
+  "version": "1.0.0",
+  "description": "![image](https://github.com/user-attachments/assets/899d1b33-bc87-45f8-8cb9-e11cf992a9d6)",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniCodex/flores-amarillas-tres.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DaniCodex/flores-amarillas-tres/issues"
+  },
+  "homepage": "https://github.com/DaniCodex/flores-amarillas-tres#readme",
+  "devDependencies": {
+    "vite": "^8.3.0"
+  }
+}
